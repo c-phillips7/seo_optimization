@@ -1,4 +1,4 @@
-Optimized and organized provided HTML code for Horiseon Social Solution Services as according to the guidelines set in the assignment below.
+In this repository, I optimized and organized provided HTML code for Horiseon Social Solution Services as according to the guidelines set in the assignment below.
 
 Specifically I;
 • Added alt attributes to all images
