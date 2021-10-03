@@ -1,9 +1,9 @@
-In this repository, I optimized and organized provided HTML code for Horiseon Social Solution Services as according to the guidelines set in the assignment below.
+In this repository, I optimized and organized provided HTML code (attatched as original-code.html) for Horiseon Social Solution Services as according to the guidelines set in the assignment below.
 
 Specifically I;
 • Added alt attributes to all images
 • Added appropriate title
-• Varried div into clearer subdivisions 
+• Varried div into clearer subdivisions (i.e. section, aside, footer)
 • Added comments to denote parts of HTML and CSS code
 • Combined redundant CSS classes into broad categories of {main-content} and {sidebar}.
 • Rearranged CSS to be in sequential order
