@@ -1,3 +1,15 @@
+Optimized and organized provided HTML code for Horiseon Social Solution Services as according to the guidelines set in the assignment below.
+
+Specifically I;
+• Added alt attributes to all images
+• Added appropriate title
+• Varried div into clearer subdivisions 
+• Added comments to denote parts of HTML and CSS code
+• Combined redundant CSS classes into broad categories of {main-content} and {sidebar}.
+• Rearranged CSS to be in sequential order
+
+
+The Assignment:
 # 01 HTML, CSS, and Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
