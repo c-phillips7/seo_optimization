@@ -1,5 +1,6 @@
 In this repository, I optimized and organized provided HTML code (attatched in original-code folder) for Horiseon Social Solution Services as according to the guidelines set in the assignment below.
 
+
 Specifically I;
 • Added alt attributes to all images
 • Added appropriate title
@@ -7,6 +8,9 @@ Specifically I;
 • Added comments to denote parts of HTML and CSS code
 • Combined redundant CSS classes into broad categories of {main-content} and {sidebar}.
 • Rearranged CSS to be in sequential order
+• Corrected meta tags
+• Fixed the link for "search-engine-optimization" in header
+
 
 Live link for github pages:
 https://c-phillips7.github.io/seo_optimization/
