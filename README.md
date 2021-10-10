@@ -15,9 +15,10 @@ Specifically I;
 Live link for github pages:
 https://c-phillips7.github.io/seo_optimization/
 
+
 Screenshot of deployed webpage:
 
-![Getting Started](./images/webpage_screenshot.jpg)
+![Screenshot](assets\images\webpage_screenshot.png)
 
 The Assignment:
 # 01 HTML, CSS, and Git: Code Refactor
