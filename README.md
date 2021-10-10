@@ -18,7 +18,8 @@ https://c-phillips7.github.io/seo_optimization/
 
 Screenshot of deployed webpage:
 
-![Screenshot](webpage_screenshot.png)
+![Screenshot](https://github.com/c-phillips7/seo_optimization/blob/master/assets/images/webpage_screenshot.png?raw=true)
+
 
 The Assignment:
 # 01 HTML, CSS, and Git: Code Refactor
